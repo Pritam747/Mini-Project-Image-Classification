@@ -1,2 +1,2 @@
-# Mini-Project-Image-Classification.  
+# Mini-Project-Image-Classification   
  
